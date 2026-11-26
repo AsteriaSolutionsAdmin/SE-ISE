@@ -1,0 +1,496 @@
+[
+  {
+    "id": "SC2026001",
+    "name": "Aarav Mehta",
+    "class": "SYMCA",
+    "attendance": 91,
+    "marks": {
+      "Web Technology": 72,
+      "DBMS": 74,
+      "Data Structures": 77,
+      "Software Engineering": 86,
+      "Mathematics": 76
+    },
+    "assignments": {
+      "completed": 10,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "aarav.mehta@campus.edu"
+  },
+  {
+    "id": "SC2026002",
+    "name": "Priya Sharma",
+    "class": "SYMCA",
+    "attendance": 88,
+    "marks": {
+      "Web Technology": 57,
+      "DBMS": 74,
+      "Data Structures": 50,
+      "Software Engineering": 72,
+      "Mathematics": 58
+    },
+    "assignments": {
+      "completed": 9,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "priya.sharma@campus.edu"
+  },
+  {
+    "id": "SC2026003",
+    "name": "Rohan Desai",
+    "class": "FYMCA",
+    "attendance": 98,
+    "marks": {
+      "Web Technology": 82,
+      "DBMS": 73,
+      "Data Structures": 91,
+      "Software Engineering": 71,
+      "Mathematics": 80
+    },
+    "assignments": {
+      "completed": 9,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "rohan.desai@campus.edu"
+  },
+  {
+    "id": "SC2026004",
+    "name": "Sneha Patil",
+    "class": "SYMCA",
+    "attendance": 78,
+    "marks": {
+      "Web Technology": 65,
+      "DBMS": 72,
+      "Data Structures": 56,
+      "Software Engineering": 54,
+      "Mathematics": 68
+    },
+    "assignments": {
+      "completed": 10,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "sneha.patil@campus.edu"
+  },
+  {
+    "id": "SC2026005",
+    "name": "Karan Joshi",
+    "class": "SYMCA",
+    "attendance": 75,
+    "marks": {
+      "Web Technology": 25,
+      "DBMS": 39,
+      "Data Structures": 44,
+      "Software Engineering": 32,
+      "Mathematics": 44
+    },
+    "assignments": {
+      "completed": 6,
+      "total": 10
+    },
+    "status": "Probation",
+    "email": "karan.joshi@campus.edu"
+  },
+  {
+    "id": "SC2026006",
+    "name": "Ananya Iyer",
+    "class": "FYMCA",
+    "attendance": 78,
+    "marks": {
+      "Web Technology": 57,
+      "DBMS": 61,
+      "Data Structures": 57,
+      "Software Engineering": 50,
+      "Mathematics": 59
+    },
+    "assignments": {
+      "completed": 7,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "ananya.iyer@campus.edu"
+  },
+  {
+    "id": "SC2026007",
+    "name": "Vikram Nair",
+    "class": "SYMCA",
+    "attendance": 89,
+    "marks": {
+      "Web Technology": 62,
+      "DBMS": 53,
+      "Data Structures": 55,
+      "Software Engineering": 71,
+      "Mathematics": 50
+    },
+    "assignments": {
+      "completed": 7,
+      "total": 10
+    },
+    "status": "Inactive",
+    "email": "vikram.nair@campus.edu"
+  },
+  {
+    "id": "SC2026008",
+    "name": "Pooja Kulkarni",
+    "class": "SYMCA",
+    "attendance": 88,
+    "marks": {
+      "Web Technology": 29,
+      "DBMS": 26,
+      "Data Structures": 35,
+      "Software Engineering": 40,
+      "Mathematics": 36
+    },
+    "assignments": {
+      "completed": 2,
+      "total": 10
+    },
+    "status": "Probation",
+    "email": "pooja.kulkarni@campus.edu"
+  },
+  {
+    "id": "SC2026009",
+    "name": "Aditya Rao",
+    "class": "FYMCA",
+    "attendance": 95,
+    "marks": {
+      "Web Technology": 81,
+      "DBMS": 74,
+      "Data Structures": 86,
+      "Software Engineering": 85,
+      "Mathematics": 92
+    },
+    "assignments": {
+      "completed": 9,
+      "total": 10
+    },
+    "status": "Inactive",
+    "email": "aditya.rao@campus.edu"
+  },
+  {
+    "id": "SC2026010",
+    "name": "Neha Gupta",
+    "class": "SYMCA",
+    "attendance": 91,
+    "marks": {
+      "Web Technology": 80,
+      "DBMS": 81,
+      "Data Structures": 70,
+      "Software Engineering": 90,
+      "Mathematics": 85
+    },
+    "assignments": {
+      "completed": 9,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "neha.gupta@campus.edu"
+  },
+  {
+    "id": "SC2026011",
+    "name": "Siddharth Jain",
+    "class": "SYMCA",
+    "attendance": 75,
+    "marks": {
+      "Web Technology": 35,
+      "DBMS": 36,
+      "Data Structures": 25,
+      "Software Engineering": 24,
+      "Mathematics": 28
+    },
+    "assignments": {
+      "completed": 5,
+      "total": 10
+    },
+    "status": "Probation",
+    "email": "siddharth.jain@campus.edu"
+  },
+  {
+    "id": "SC2026012",
+    "name": "Kavya Reddy",
+    "class": "FYMCA",
+    "attendance": 80,
+    "marks": {
+      "Web Technology": 73,
+      "DBMS": 52,
+      "Data Structures": 72,
+      "Software Engineering": 65,
+      "Mathematics": 68
+    },
+    "assignments": {
+      "completed": 8,
+      "total": 10
+    },
+    "status": "Inactive",
+    "email": "kavya.reddy@campus.edu"
+  },
+  {
+    "id": "SC2026013",
+    "name": "Arjun Singh",
+    "class": "SYMCA",
+    "attendance": 86,
+    "marks": {
+      "Web Technology": 92,
+      "DBMS": 89,
+      "Data Structures": 89,
+      "Software Engineering": 70,
+      "Mathematics": 90
+    },
+    "assignments": {
+      "completed": 10,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "arjun.singh@campus.edu"
+  },
+  {
+    "id": "SC2026014",
+    "name": "Meera Pillai",
+    "class": "SYMCA",
+    "attendance": 92,
+    "marks": {
+      "Web Technology": 66,
+      "DBMS": 57,
+      "Data Structures": 60,
+      "Software Engineering": 66,
+      "Mathematics": 62
+    },
+    "assignments": {
+      "completed": 6,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "meera.pillai@campus.edu"
+  },
+  {
+    "id": "SC2026015",
+    "name": "Rahul Verma",
+    "class": "FYMCA",
+    "attendance": 90,
+    "marks": {
+      "Web Technology": 79,
+      "DBMS": 72,
+      "Data Structures": 87,
+      "Software Engineering": 83,
+      "Mathematics": 93
+    },
+    "assignments": {
+      "completed": 10,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "rahul.verma@campus.edu"
+  },
+  {
+    "id": "SC2026016",
+    "name": "Isha Bhatt",
+    "class": "SYMCA",
+    "attendance": 58,
+    "marks": {
+      "Web Technology": 61,
+      "DBMS": 57,
+      "Data Structures": 58,
+      "Software Engineering": 64,
+      "Mathematics": 55
+    },
+    "assignments": {
+      "completed": 7,
+      "total": 10
+    },
+    "status": "On Leave",
+    "email": "isha.bhatt@campus.edu"
+  },
+  {
+    "id": "SC2026017",
+    "name": "Nikhil Pawar",
+    "class": "SYMCA",
+    "attendance": 87,
+    "marks": {
+      "Web Technology": 71,
+      "DBMS": 63,
+      "Data Structures": 56,
+      "Software Engineering": 65,
+      "Mathematics": 66
+    },
+    "assignments": {
+      "completed": 8,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "nikhil.pawar@campus.edu"
+  },
+  {
+    "id": "SC2026018",
+    "name": "Tanvi Shah",
+    "class": "FYMCA",
+    "attendance": 78,
+    "marks": {
+      "Web Technology": 30,
+      "DBMS": 38,
+      "Data Structures": 30,
+      "Software Engineering": 30,
+      "Mathematics": 42
+    },
+    "assignments": {
+      "completed": 4,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "tanvi.shah@campus.edu"
+  },
+  {
+    "id": "SC2026019",
+    "name": "Omkar Shinde",
+    "class": "SYMCA",
+    "attendance": 83,
+    "marks": {
+      "Web Technology": 61,
+      "DBMS": 65,
+      "Data Structures": 74,
+      "Software Engineering": 53,
+      "Mathematics": 53
+    },
+    "assignments": {
+      "completed": 6,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "omkar.shinde@campus.edu"
+  },
+  {
+    "id": "SC2026020",
+    "name": "Riya Kapoor",
+    "class": "SYMCA",
+    "attendance": 71,
+    "marks": {
+      "Web Technology": 52,
+      "DBMS": 67,
+      "Data Structures": 54,
+      "Software Engineering": 48,
+      "Mathematics": 49
+    },
+    "assignments": {
+      "completed": 7,
+      "total": 10
+    },
+    "status": "On Leave",
+    "email": "riya.kapoor@campus.edu"
+  },
+  {
+    "id": "SC2026021",
+    "name": "Yash Thakur",
+    "class": "FYMCA",
+    "attendance": 80,
+    "marks": {
+      "Web Technology": 24,
+      "DBMS": 26,
+      "Data Structures": 42,
+      "Software Engineering": 33,
+      "Mathematics": 24
+    },
+    "assignments": {
+      "completed": 6,
+      "total": 10
+    },
+    "status": "Probation",
+    "email": "yash.thakur@campus.edu"
+  },
+  {
+    "id": "SC2026022",
+    "name": "Diya Menon",
+    "class": "SYMCA",
+    "attendance": 71,
+    "marks": {
+      "Web Technology": 57,
+      "DBMS": 59,
+      "Data Structures": 51,
+      "Software Engineering": 51,
+      "Mathematics": 54
+    },
+    "assignments": {
+      "completed": 3,
+      "total": 10
+    },
+    "status": "On Leave",
+    "email": "diya.menon@campus.edu"
+  },
+  {
+    "id": "SC2026023",
+    "name": "Harsh Chavan",
+    "class": "SYMCA",
+    "attendance": 86,
+    "marks": {
+      "Web Technology": 51,
+      "DBMS": 51,
+      "Data Structures": 67,
+      "Software Engineering": 73,
+      "Mathematics": 55
+    },
+    "assignments": {
+      "completed": 10,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "harsh.chavan@campus.edu"
+  },
+  {
+    "id": "SC2026024",
+    "name": "Sakshi More",
+    "class": "FYMCA",
+    "attendance": 79,
+    "marks": {
+      "Web Technology": 54,
+      "DBMS": 73,
+      "Data Structures": 54,
+      "Software Engineering": 57,
+      "Mathematics": 60
+    },
+    "assignments": {
+      "completed": 9,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "sakshi.more@campus.edu"
+  },
+  {
+    "id": "SC2026025",
+    "name": "Aman Khan",
+    "class": "SYMCA",
+    "attendance": 90,
+    "marks": {
+      "Web Technology": 69,
+      "DBMS": 59,
+      "Data Structures": 63,
+      "Software Engineering": 63,
+      "Mathematics": 68
+    },
+    "assignments": {
+      "completed": 10,
+      "total": 10
+    },
+    "status": "Active",
+    "email": "aman.khan@campus.edu"
+  },
+  {
+    "id": "SC2026026",
+    "name": "Shruti Naik",
+    "class": "SYMCA",
+    "attendance": 78,
+    "marks": {
+      "Web Technology": 37,
+      "DBMS": 26,
+      "Data Structures": 30,
+      "Software Engineering": 37,
+      "Mathematics": 42
+    },
+    "assignments": {
+      "completed": 6,
+      "total": 10
+    },
+    "status": "Probation",
+    "email": "shruti.naik@campus.edu"
+  }
+]
