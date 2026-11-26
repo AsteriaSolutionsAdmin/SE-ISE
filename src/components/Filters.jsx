@@ -45,7 +45,7 @@ export default function Filters({ filters, classes, statuses, onChange, onReset,
         </Button>
       )}
       <span className="ml-auto text-sm text-muted-foreground tabular-nums">
-        {resultCount} of {total} studentsssss
+        {resultCount} of {total} studentsssssi
       </span>
     </section>
   );
